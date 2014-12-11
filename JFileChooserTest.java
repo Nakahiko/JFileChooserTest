@@ -40,7 +40,7 @@ public class JFileChooserTest extends JFrame implements ActionListener{
 		//パネル（コンテナみたいなもん）を宣言
 		
 		buttonPanel.add(button);
-		//パネルの中にボタンをぶっこむよ
+		//パネルの中にボタンをぶっこむ
 		
 
 		label = new JLabel("none");
